@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ピンクブルー",
+  "base_artist": "緑黄色社会",
+  "createdAt": "2026-03-22T06:07:59.881795Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ピンクブルー",
+      "artist": "Ryokuoushoku Shakai",
+      "has_synced": false,
+      "path": "select/01_ピンクブルー_Ryokuoushoku_Shakai.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ピンクブルー",
+      "artist": "緑黄色社会",
+      "has_synced": false,
+      "path": "select/pl_01_ピンクブルー_緑黄色社会.txt"
+    }
+  ]
+}
